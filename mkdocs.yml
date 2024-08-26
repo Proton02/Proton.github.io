@@ -1,10 +1,10 @@
-site_name: Jianjun Zhou's Notebook
-site_url: https://ZhouTimeMachine.github.io/note
-repo_name: ZhouTimeMachine/note
-repo_url: https://github.com/ZhouTimeMachine/note/
+site_name: Proton's Notebook
+site_url: https://Proton.github.io/
+repo_name: Proton/notebook
+repo_url: https://github.com/Proton02/note/
 edit_uri: tree/master/docs
-site_description: Jianjun Zhou's Notebook
-copyright: Copyright &copy; 2023 <a href="https://github.com/ZhouTimeMachine" target="_blank" rel="noopener">ZhouTimeMachine</a>
+site_description: Proton's Notebook
+copyright: Copyright &copy; 2024 <a href="https://github.com/Proton02" target="_blank" rel="noopener">Proton</a>
 
 nav:
   - Home:
